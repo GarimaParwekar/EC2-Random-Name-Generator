@@ -1,7 +1,7 @@
 import random
 import string
 
-No_of_EC2_Instances = int(input('Please enter how many EC2 instances you want? '))
+No_of_EC2_Instances = int(input('Please enter how many EC2 instances you want name for ? '))
 Department_Name = input('Enter your Department name ')
 while True:
     for i in range(No_of_EC2_Instances):
